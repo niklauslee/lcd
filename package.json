@@ -1,0 +1,6 @@
+{
+  "name": "lcd",
+  "version": "1.0.0",
+  "description": "Kaluma library for liquid crystal display (HD44780 driver)",
+  "main": "index.js"
+}
